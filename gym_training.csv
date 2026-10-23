@@ -1,7 +1,15 @@
 date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,average_weight_kg,personal_record,rest_minutes
-21.10.2026,Wed,bulgarian split squat,legs,15,3,36,30,no,10
-21.10.2026,Wed,leg extention,legs,12,3,36,70,yes,8
-21.10.2026,Wed,leg curl,legs,14,3,36,75,yes,9
-21.10.2026,Wed,leg press,legs,17,3,36,73,yes,14
-21.10.2026,Wed,calf extention,legs,16,3,90,66,no,10
-21.10.2026,Wed,outer thigh,legs,10,3,36,55,yes,7
+10/21/2026,Wed,bulgarian split squat,legs,15,3,36,30,no,10
+10/21/2026,Wed,leg extention,legs,12,3,36,70,yes,8
+10/21/2026,Wed,leg curl,legs,14,3,36,75,yes,9
+10/21/2026,Wed,leg press,legs,17,3,36,73,yes,14
+10/21/2026,Wed,calf extention,calf,16,3,90,66,no,10
+10/21/2026,Wed,outer thigh,thigh,10,3,36,55,yes,7
+10/22/2026,Thu,Standing chest press,chest,9,3,36,82,yes,6
+10/22/2026,Thu,Incline chest press,chest,11,3,36,45,no,7
+10/22/2026,Thu,pulldown,back,7,3,36,52,no,4
+10/22/2026,Thu,triceps extention,triceps,10,3,36,46,no,6
+10/22/2026,Thu,biceps curl,biceps,8,3,36,21,no,4
+10/22/2026,Thu,hammer curl,biceps,7,3,36,15,no,3
+10/22/2026,Thu,lateral raise,shoulders,7,3,36,10,no,3
+10/22/2026,Thu,shoulder press (machine),shoulders,9,3,33,64,no,6
