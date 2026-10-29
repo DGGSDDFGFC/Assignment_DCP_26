@@ -27,3 +27,17 @@ date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,averag
 10/26/2026,Mon,reverse tricep extention,triceps,5,4,48,22.5,yes,3
 10/26/2026,Mon,shoulder press (machine),shoulders,6,3,32,41,no,3
 10/26/2026,Mon,lateral raise,shoulders,10,5,60,10,no,5
+10/27/2026,Tue,seated cable row,back,13,3,36,91,no,10
+10/27/2026,Tue,pulldown,back,7,3,36,52,no,4
+10/27/2026,Tue,bent-over barbell row,back,8,3,36,45,no,5
+10/27/2026,Tue,biceps curl,biceps,11,3,36,15,no,7
+10/27/2026,Tue,hammer curl,biceps,10,3,36,15,no,7
+10/27/2026,Tue,biceps curl (machine),biceps,10,3,36,23,no,7
+10/27/2026,Tue,abs curl,abs,8,3,36,86,no,5
+10/27/2026,Tue,forearms curl,forearms,6,3,45,12.5,no,2
+10/28/2026,Wed,bulgarian split squat,legs,14,3,36,30,no,9
+10/28/2026,Wed,leg extention,legs,6,3,36,73,no,3
+10/28/2026,Wed,leg curl,legs,7,3,36,77,yes,4
+10/28/2026,Wed,leg press,legs,9,3,36,66,no,6
+10/28/2026,Wed,calf extention,calf,9,3,90,59,no,5
+10/28/2026,Wed,inner thigh,thigh,5,3,36,41,no,3
