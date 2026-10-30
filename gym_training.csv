@@ -41,3 +41,11 @@ date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,averag
 10/28/2026,Wed,leg press,legs,9,3,36,66,no,6
 10/28/2026,Wed,calf extention,calf,9,3,90,59,no,5
 10/28/2026,Wed,inner thigh,thigh,5,3,36,41,no,3
+10/29/2026,Thu,standing chest press,chest,12,3,36,82,no,9
+10/29/2026,Thu,seated cable row,back,10,3,36,86,no,7
+10/29/2026,Thu,biceps curl (machine),biceps,7,3,36,23,no,4
+10/29/2026,Thu,hammer curl,biceps,8,3,36,15,no,5
+10/29/2026,Thu,triceps extention,triceps,7,3,36,46,no,4
+10/29/2026,Thu,lateral raise,shoulders,9,3,36,10,no,6
+10/29/2026,Thu,shoulder press (machine),shoulders,6,3,36,45,no,3
+10/29/2026,Thu,dead hang,forearms,5,2,2,0,no,2
