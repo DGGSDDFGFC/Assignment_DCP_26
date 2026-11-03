@@ -62,3 +62,11 @@ date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,max_we
 11/2/2026,Mon,reverse triceps extention,triceps,8,4,48,22.5,no,5
 11/2/2026,Mon,lateral raise,shoulders,8,3,36,10,no,5
 11/2/2026,Mon,cable fly,shoulders,9,3,36,9,yes,5
+11/3/2026,Tue,seated cable row,back,7,3,36,91,yes,4
+11/3/2026,Tue,pulldown,back,6,3,36,52,no,3
+11/3/2026,Tue,bent-over barbell row,back,8,3,36,45,no,5
+11/3/2026,Tue,biceps curl (machine),biceps,7,3,36,21,no,5
+11/3/2026,Tue,biceps curl,biceps,11,3,36,15,no,7
+11/3/2026,Tue,hammer curl,biceps,7,3,36,15,no,7
+11/3/2026,Tue,forearms curl,forearms,7,3,65,10,no,2
+11/3/2026,Tue,abs curl,abs,6,3,36,91,yes,3
