@@ -1,4 +1,4 @@
-date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,average_weight_kg,personal_record,rest_minutes
+date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,max_weight_kg,personal_record,rest_minutes
 10/21/2026,Wed,bulgarian split squat,legs,15,3,36,30,no,10
 10/21/2026,Wed,leg extention,legs,12,3,36,70,yes,8
 10/21/2026,Wed,leg curl,legs,14,3,36,75,yes,9
@@ -24,7 +24,7 @@ date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,averag
 10/26/2026,Mon,incline bench press,chest,13,3,36,50,yes,9
 10/26/2026,Mon,standing chest press,chest,6,3,36,82,no,3
 10/26/2026,Mon,triceps extention,triceps,8,3,36,46,no,5
-10/26/2026,Mon,reverse tricep extention,triceps,5,4,48,22.5,yes,3
+10/26/2026,Mon,reverse triceps extention,triceps,5,4,48,22.5,yes,3
 10/26/2026,Mon,shoulder press (machine),shoulders,6,3,32,41,no,3
 10/26/2026,Mon,lateral raise,shoulders,10,5,60,10,no,5
 10/27/2026,Tue,seated cable row,back,13,3,36,91,no,10
@@ -55,3 +55,10 @@ date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,averag
 10/30/2026,Fri,leg press,legs,8,3,45,73,no,5
 10/30/2026,Fri,calf extention,calf,10,3,90,73,yes,7
 10/30/2026,Fri,abs curl,abs,8,3,45,86,no,5
+11/2/2026,Mon,bench press,chest,15,4,30,80,no,12
+11/2/2026,Mon,standing chest press,chest,6,3,36,82,no,3
+11/2/2026,Mon,incline bench press,chest,10,3,36,45,no,7
+11/2/2026,Mon,triceps extention,triceps,12,4,48,46,no,8
+11/2/2026,Mon,reverse triceps extention,triceps,8,4,48,22.5,no,5
+11/2/2026,Mon,lateral raise,shoulders,8,3,36,10,no,5
+11/2/2026,Mon,cable fly,shoulders,9,3,36,9,yes,5
