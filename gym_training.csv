@@ -84,4 +84,9 @@ date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,max_we
 11/5/2026,Thu,shoulder press (machine),shoulders,7,3,36,41,no,4
 11/5/2026,Thu,cable fly,shoulders,9,3,36,11,no,4
 11/5/2026,Thu,dead hang,forearms,4,2,2,0,no,2
-,,,,,,,,,
+11/6/2026,Fri,leg press,legs,7,3,36,73,no,4
+11/6/2026,Fri,calf extention,calf,8,3,75,66,no,5
+11/6/2026,Fri,leg extention,legs,7,3,36,77,no,5
+11/6/2026,Fri,leg curl,legs,5,3,36,77,no,3
+11/6/2026,Fri,outer thigh,thigh,5,3,36,45,no,2
+11/6/2026,Fri,abs curl,abs,5,3,45,91,no,3
