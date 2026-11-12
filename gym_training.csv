@@ -106,3 +106,9 @@ date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,max_we
 11/10/2026,Tue,forearms curl,forearms,6,3,60,7.5,no,1
 11/10/2026,Tue,biceps curl (machine),biceps,7,3,45,16,no,4
 11/10/2026,Tue,abs curl,abs,5,3,45,77,no,3
+11/11/2026,Wed,bulgarian split squat,legs,13,3,45,20,no,9
+11/11/2026,Wed,leg extention,legs,7,3,45,68,no,4
+11/11/2026,Wed,leg curl,legs,6,3,45,68,no,4
+11/11/2026,Wed,leg press,legs,9,3,45,59,no,6
+11/11/2026,Wed,calf extention,calf,8,3,90,59,no,4
+11/11/2026,Wed,outer thigh,thigh,5,3,45,41,no,3
