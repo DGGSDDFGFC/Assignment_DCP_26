@@ -112,3 +112,12 @@ date,day,workout_type,muscle_group,duration_minutes,total_sets,total_reps,max_we
 11/11/2026,Wed,leg press,legs,9,3,45,59,no,6
 11/11/2026,Wed,calf extention,calf,8,3,90,59,no,4
 11/11/2026,Wed,outer thigh,thigh,5,3,45,41,no,3
+11/12/2026,Thu,Incline chest press,chest,6,3,45,35,no,3
+11/12/2026,Thu,standing chest press,chest,5,3,45,54,no,3
+11/12/2026,Thu,pulldown,back,6,3,45,39,no,4
+11/12/2026,Thu,seated cable row,back,9,3,45,77,no,6
+11/12/2026,Thu,triceps extention,triceps,7,3,45,36,no,4
+11/12/2026,Thu,biceps curl (machine),biceps,6,3,45,35,no,3
+11/12/2026,Thu,shoulder press (machine),shoulders,8,3,45,32,no,6
+11/12/2026,Thu,cable fly,shoulders,6,3,45,7,no,2
+,,dead hang,forearms,4,2,2,0,no,2
